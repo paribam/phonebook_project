@@ -1,5 +1,5 @@
 # phonebook_project/main.py
-print("Телефонный справочник v1.2")
+print("Телефонный справочник v2.0-del")
 print("Выберите действие: 1-Добавить, 2-Найти, 3-Удалить, 4-Экспорт")
  
 def search_contact(name):
