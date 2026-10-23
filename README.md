@@ -12,3 +12,5 @@
 - Python
 - Git
 - GitHub
+
+Выполнено в powershell
